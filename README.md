@@ -7,10 +7,10 @@ Using new methods
 * ActivityCompat.requestPermissions()
 * ActivityCompat.shouldShowRequestPermissionRationale() 
 
- 
-![](screens/p0.png)
-![](screens/p1.png)
-![](screens/p2.png)
-![](screens/p3.png)
-![](screens/p4.png)
+
+<img src="https://raw.githubusercontent.com/fchauveau/android-permissions-sample/master/screens/p0.png" width="200">
+<img src="https://raw.githubusercontent.com/fchauveau/android-permissions-sample/master/screens/p1.png" width="200">
+<img src="https://raw.githubusercontent.com/fchauveau/android-permissions-sample/master/screens/p2.png" width="200">
+<img src="https://raw.githubusercontent.com/fchauveau/android-permissions-sample/master/screens/p3.png" width="200">
+<img src="https://raw.githubusercontent.com/fchauveau/android-permissions-sample/master/screens/p4.png" width="200">
 
